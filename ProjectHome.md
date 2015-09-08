@@ -1,0 +1,1 @@
+The project is about building a scalable and efficient repository for RDF data using Apache Hadoop. It will have access control using XACML.
